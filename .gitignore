@@ -1,3 +1,5 @@
 *.so
 *.o
 *.dll
+lua-5.3.3/src/lua
+lua-5.3.3/src/luac
