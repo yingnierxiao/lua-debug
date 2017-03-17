@@ -1,0 +1,9 @@
+[submodule "mare"]
+	path = mare
+	url = git@github.com:yingnierxiao/mare.git
+[submodule "lsocket"]
+	path = lsocket
+	url = git@github.com:yingnierxiao/lsocket.git
+[submodule "mare-remotedebug"]
+	path = mare-remotedebug
+	url = git@github.com:yingnierxiao/mare-remotedebug.git
